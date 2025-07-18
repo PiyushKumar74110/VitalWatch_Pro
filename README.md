@@ -23,15 +23,15 @@ Data is received from an Arduino device over a serial port, parsed, displayed in
 
 | Sensor     | Label    | Purpose |
 |------------|----------|---------|
-| TEMP       | Temperature | Detects body/environment temperature |
+| TEMP       | Temperature | Detects environment temperature |
 | HUM        | Humidity | Measures air moisture (for comfort/health insights) |
-| FLAME      | Flame Sensor | Detects presence of fire |
-| LIGHT      | Light Sensor | Detects ambient brightness |
-| SOUND      | Sound Sensor | Detects loud noise (shouting, alarms) |
-| SHOCK      | Vibration/Shock | Detects physical impacts or tremors |
-| BALL       | Tilt/Ball | Detects device orientation/movement |
-| REED       | Reed Switch | Detects door/window open state |
-| TOUCH      | Touch Sensor | Detects surface touch |
+| FLAME      | Flame Sensor | Detects fire or sudden heat sources |
+| LIGHT      | Light Sensor | Measures ambient light levels |
+| SOUND      | Sound Sensor | Detects abnormal or loud noise levels |
+| SHOCK      | Vibration/Shock | Identifies impact or vibration events |
+| BALL       | Tilt/Ball | Detects orientation or tilting movement |
+| REED       | Reed Switch | Detects door/window opening (magnetic trigger) |
+| TOUCH      | Touch Sensor | Senses physical interaction or surface contact |
 
 ### Prerequisites
 
