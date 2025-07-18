@@ -1,4 +1,4 @@
-# VitalWatch Pro - Smart Status Monitor 
+# VitalWatch Pro - Status Dashboard
 
 VitalWatch Pro is a real-time health and safety monitoring dashboard built with PyQt5, designed to interface with an Arduino via serial communication. It provides visual feedback and logging for various sensors including temperature, humidity, flame, sound, shock, and more.
 
